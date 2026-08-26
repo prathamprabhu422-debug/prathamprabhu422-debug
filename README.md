@@ -225,6 +225,8 @@ The system extracts document content, divides it into meaningful chunks, generat
 - 🐳 Docker support
 - 🚀 Deployment support
 
+</details>
+
 <details>
 <summary><b>🛒 E-Commerce Data Analysis & Business Intelligence</b></summary>
 
@@ -267,7 +269,8 @@ The project transforms raw e-commerce data into actionable business insights usi
 - 💡 Data-driven business insights
 
 ---
-<details>
+</details>
+
 # 💼 Experience
 
 ### AI/ML Intern
