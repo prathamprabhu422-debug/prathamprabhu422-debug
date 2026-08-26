@@ -75,19 +75,19 @@ I enjoy transforming ideas into working applications by combining modern softwar
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
 ### ⚙️ Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### ☁️ Cloud, DevOps & Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -96,9 +96,9 @@ I enjoy transforming ideas into working applications by combining modern softwar
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Machine Learning | Intermediate | Classification, Regression & Predictive Systems |
+| Machine Learning | Beginner | Classification, Regression & Predictive Systems |
 | Deep Learning | Intermediate | CNN, LSTM and Neural Network Applications |
-| Natural Language Processing | Intermediate | RAG-based Applications and Chatbots |
+| Natural Language Processing | Beginner | RAG-based Applications and Chatbots |
 | Generative AI | Intermediate | Exploring LLM-based applications |
 | Computer Vision | Intermediate | AI-based detection applications |
 | DNA Sequence Analysis | Project Focus | Sequence classification and analysis using Deep Learning |
