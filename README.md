@@ -267,7 +267,7 @@ The project transforms raw e-commerce data into actionable business insights usi
 - 💡 Data-driven business insights
 
 ---
-
+<details>
 # 💼 Experience
 
 ### AI/ML Intern
