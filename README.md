@@ -278,9 +278,9 @@ Currently developing knowledge and practical skills in Artificial Intelligence a
 
 | Provider | Status |
 |---|---|
-| AWS | Add verified certification |
-| Oracle | Add verified certification |
-| NPTEL | Add verified certification |
+| CognitiveClass.ai | Python 101 for Data Science |
+| Microsoft | Introduction to MS Excel |
+| CognitiveClass.ai | Introduction to Cloud |
 | Cisco | Add verified certification |
 
 ---
@@ -289,20 +289,12 @@ Currently developing knowledge and practical skills in Artificial Intelligence a
 
 <div align="center">
 
-<a href="#">
+<a href="https://leetcode.com/u/Pratham4205/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="#">
+<a href="https://www.hackerrank.com/profile/Pratham Prabhu">
 <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </div>
@@ -361,6 +353,29 @@ Currently developing knowledge and practical skills in Artificial Intelligence a
 
 ---
 
+
+```yaml
 # 🎯 Current Focus
 
 ```yaml
+Learning:
+  - Artificial Intelligence
+  - Machine Learning
+  - Deep Learning
+  - Generative AI
+
+Building:
+  - AI-Powered DNA Sequence Analysis System
+  - Full Stack Applications
+  - AI/ML Projects
+
+Exploring:
+  - Large Language Models
+  - Retrieval-Augmented Generation
+  - Advanced Deep Learning
+
+Open To:
+  - AI/ML Internships
+  - Software Engineering Opportunities
+  - Full Stack Development
+  - Collaborative AI Projects
