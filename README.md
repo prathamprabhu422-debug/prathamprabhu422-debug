@@ -105,7 +105,7 @@ I enjoy transforming ideas into working applications by combining modern softwar
 
 ---
 
-# 🚀 Featured Projects
+# 👨‍💻 My Project
 
 <details>
 <summary><b>🧬 AI-Powered Inherited Disease Detection & DNA Sequence Analysis System</b></summary>
@@ -114,7 +114,7 @@ I enjoy transforming ideas into working applications by combining modern softwar
 
 An AI-powered system designed to analyze DNA sequences and assist in identifying inherited diseases and genetic mutations.
 
-The system works with DNA sequences containing **A, T, G and C** and explores Deep Learning approaches for sequence analysis.
+The system works with DNA sequences containing A, T, G, and C and explores deep learning approaches for sequence analysis, prediction, and visualization.
 
 ### Project Stack
 
@@ -124,119 +124,147 @@ The system works with DNA sequences containing **A, T, G and C** and explores De
 | AI/ML | CNN, LSTM |
 | Data | DNA Sequences |
 | Sequence Analysis | FASTA, BLAST |
+| Visualization | Heatmaps |
 | Output | Prediction, Analysis & Report |
 | Repository | [GitHub](https://github.com/prathamprabhu422-debug/AI-DNA-System) |
 
 ### Key Features
 
-- DNA sequence input
-- DNA sequence preprocessing
-- CNN-based analysis
-- LSTM-based sequence learning
-- Disease/mutation prediction
-- Heatmap-based visualization
-- Automated report generation
-- AI chatbot assistance
-- FASTA and BLAST-related sequence analysis
+- 🧬 DNA sequence input
+- 🔬 DNA sequence preprocessing
+- 🧠 CNN-based analysis
+- 🤖 LSTM-based sequence learning
+- 🧪 Disease and mutation prediction
+- 📊 Heatmap-based visualization
+- 📑 Automated report generation
+- 💬 AI chatbot assistance
+- 🧬 FASTA and BLAST-related sequence analysis
 
 </details>
 
----
 
 <details>
-<summary><b>💬 RAG Chatbot</b></summary>
+<summary><b>📄 AI Resume Analyzer & Job Matching System</b></summary>
 
 ### Overview
 
-A Retrieval-Augmented Generation chatbot project focused on combining information retrieval with generative AI to provide context-aware responses.
+An AI-powered full-stack web application designed to analyze resumes and evaluate their compatibility with specific job descriptions.
 
-### Key Concepts
+The system extracts information from PDF and DOCX resumes and provides ATS scoring, skill extraction, strengths and weaknesses, improvement suggestions, and job-description matching.
 
-- Retrieval-Augmented Generation
-- Information Retrieval
-- Generative AI
-- Context-aware responses
-- Chatbot development
+### Project Stack
+
+| Category | Details |
+|---|---|
+| Frontend | React, Vite, TypeScript, Tailwind CSS |
+| Backend | FastAPI, Python |
+| AI/ML | OpenAI API, GPT-4o-mini |
+| Database | SQLite |
+| Document Processing | pdfplumber, python-docx, pdfjs-dist, mammoth |
+| Analysis | ATS Scoring, Skill Extraction, Job Matching |
+| Output | Resume Analysis, ATS Score & Job Match |
+| Repository | [GitHub](https://github.com/prathamprabhu422-debug/AI-Resume-Analyzer-Job-Matching-System) |
+
+### Key Features
+
+- 📄 PDF and DOCX resume upload
+- 🤖 AI-powered resume analysis
+- 📊 ATS score generation
+- 🧠 Skill extraction
+- 💪 Strength and weakness identification
+- 🎯 Job-description matching
+- 📈 Resume-to-job match percentage
+- 🔍 Missing skills detection
+- 💡 Resume improvement suggestions
+- 🗃️ Analysis history
+- ⚡ AI/heuristic analysis fallback
+- 📱 Responsive modern interface
+- 🔌 FastAPI REST API
 
 </details>
 
----
-
 <details>
-<summary><b>💣 Defuse IT — Bomb Game</b></summary>
+<summary><b>🤖 RAG Chatbot</b></summary>
 
 ### Overview
 
-A game-based project designed around a bomb-defusal concept, combining interactive gameplay with problem-solving elements.
+An AI-powered Retrieval-Augmented Generation (RAG) chatbot that allows users to upload PDF documents and interact with them using natural-language questions.
 
-### Focus
+The system extracts document content, divides it into meaningful chunks, generates vector embeddings, performs semantic similarity search using FAISS, and uses OpenAI GPT models to generate context-aware answers with source citations.
 
-- Interactive gameplay
-- User interaction
-- Logic-based challenges
-- Game development concepts
+### Project Stack
 
-</details>
+| Category | Details |
+|---|---|
+| Frontend | React 18, Vite, CSS |
+| Backend | FastAPI, Python |
+| AI | OpenAI GPT-4o |
+| RAG Framework | LangChain |
+| Vector Database | FAISS |
+| Embeddings | OpenAI text-embedding-3-small |
+| Document Processing | PyMuPDF |
+| API Communication | Axios |
+| Deployment | Vercel, Docker |
+| Output | AI Answers + Source Citations |
+| Repository | [GitHub](https://github.com/prathamprabhu422-debug/RAG-Chatbot) |
 
----
+### Key Features
+
+- 📄 PDF document upload
+- 📚 Multiple document management
+- 🔍 Semantic document search
+- 🧠 Retrieval-Augmented Generation
+- 🤖 GPT-powered answers
+- 🗂️ FAISS vector search
+- 🔗 Source/page citations
+- 💬 Conversational chat interface
+- 🧾 Chat history and session management
+- 🗑️ Document deletion
+- ⚡ FastAPI REST APIs
+- 🎨 Modern responsive UI
+- 🐳 Docker support
+- 🚀 Deployment support
 
 <details>
-<summary><b>📊 E-Commerce Data Analysis</b></summary>
+<summary><b>🛒 E-Commerce Data Analysis & Business Intelligence</b></summary>
 
 ### Overview
 
-A data analysis project focused on extracting meaningful insights from e-commerce data.
+An interactive data analytics and business intelligence project developed to analyze e-commerce sales data and generate meaningful insights into sales performance, customer behavior, product performance, and overall business trends.
 
-### Focus
+The project transforms raw e-commerce data into actionable business insights using data cleaning, exploratory data analysis, visualization, and an interactive Power BI dashboard.
 
-- Data preprocessing
-- Exploratory data analysis
-- Data visualization
-- Business insights
-- Data-driven decision making
+### Project Stack
 
-</details>
+| Category | Details |
+|---|---|
+| Data Analysis | Data Cleaning & Exploratory Data Analysis |
+| Data Processing | Python, Pandas, NumPy |
+| Visualization | Power BI |
+| Dashboard | Interactive Power BI Dashboard |
+| Dataset | E-Commerce Sales Data |
+| Reporting | Business Intelligence Report |
+| Output | Sales Insights, KPIs & Interactive Dashboard |
+| Repository | [GitHub](https://github.com/prathamprabhu422-debug/E-Commerce-Data-Analysis) |
 
----
+### Key Features
 
-<details>
-<summary><b>🚦 Urban Traffic Flow Prediction System</b></summary>
-
-### Overview
-
-A predictive system designed to analyze and forecast urban traffic flow using machine learning and deep learning techniques.
-
-### Technologies
-
-- Regression
-- Random Forest
-- LSTM
-- Predictive Analytics
-
-### Focus
-
-Traffic pattern analysis and future traffic-flow prediction.
-
-</details>
-
----
-
-<details>
-<summary><b>🍽️ Smart Restaurant Management System</b></summary>
-
-### Overview
-
-A software system designed to improve restaurant management and streamline common restaurant operations.
-
-### Focus
-
-- Restaurant management
-- Digital workflows
-- Data management
-- User interaction
-- Software engineering
-
-</details>
+- 📊 E-commerce sales data analysis
+- 🧹 Data cleaning and preprocessing
+- 🔍 Exploratory Data Analysis (EDA)
+- 💰 Sales and revenue analysis
+- 👥 Customer behavior analysis
+- 🛍️ Product performance analysis
+- 📈 Sales trend analysis
+- 🌍 Regional and geographical analysis
+- 📊 KPI and business performance tracking
+- 📉 Profit and loss analysis
+- 🏆 Top-performing products identification
+- 📦 Order and quantity analysis
+- 📅 Time-based sales analysis
+- 🎨 Interactive Power BI dashboard
+- 📑 Business intelligence reporting
+- 💡 Data-driven business insights
 
 ---
 
